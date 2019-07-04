@@ -21,6 +21,7 @@ for i in rand:
 	back.append(img)
 # print(back)
 for i in range(700):
+	name = 'single/xuz' + str(i) + '.jpg'
 	back_number = random.randint(0,len(back)-1)
 	# print(back_number)
 	icon2 = Image.open(back[back_number]) 
@@ -36,12 +37,11 @@ for i in range(700):
 	y_rand = random.randint(0, 1080 - y)
 	im.paste(icon, (x_rand, y_rand, x_rand + x, y_rand + y))
 
-	name = data[cheque_number][9:]
+	# name = data[cheque_number][9:]
 	row = [name,538,256,'cheques',x_rand,y_rand,x_rand + x,y_rand + y]
 
 	with open ('train_labels.csv','a') as csvFile: 
 		writer = csv.writer(csvFile)
 		writer.writerow(row)
 
-	name = 'merged/xuz' + str(i) + '.jpg'
 	im.save(name, "JPEG") 
