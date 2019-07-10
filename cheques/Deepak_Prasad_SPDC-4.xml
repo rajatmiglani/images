@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cheques</folder>
+	<filename>Deepak_Prasad_SPDC-4.jpg</filename>
+	<path>/home/miglani/git/images/cheques/Deepak_Prasad_SPDC-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2339</width>
+		<height>1654</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheques</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>290</ymin>
+			<xmax>2187</xmax>
+			<ymax>1258</ymax>
+		</bndbox>
+	</object>
+</annotation>

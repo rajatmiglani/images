@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cheques</folder>
+	<filename>Vijay_Kumar__SPDC-2.jpg</filename>
+	<path>/home/miglani/git/images/cheques/Vijay_Kumar__SPDC-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1654</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheques</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>87</ymin>
+			<xmax>1372</xmax>
+			<ymax>2263</ymax>
+		</bndbox>
+	</object>
+</annotation>

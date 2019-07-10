@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cheques</folder>
+	<filename>Fahim_ahmed_SPDC-7.jpg</filename>
+	<path>/home/miglani/git/images/cheques/Fahim_ahmed_SPDC-7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheques</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>465</ymin>
+			<xmax>1189</xmax>
+			<ymax>2236</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cheques</folder>
+	<filename>Devendra_kumar_SPDC-1.jpg</filename>
+	<path>/home/miglani/git/images/cheques/Devendra_kumar_SPDC-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1654</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheques</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>136</ymin>
+			<xmax>1311</xmax>
+			<ymax>2246</ymax>
+		</bndbox>
+	</object>
+</annotation>

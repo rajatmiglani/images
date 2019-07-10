@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cheques</folder>
+	<filename>Kriti_Aggarwal_SPDC-15.jpg</filename>
+	<path>/home/miglani/git/images/cheques/Kriti_Aggarwal_SPDC-15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheques</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>551</ymin>
+			<xmax>1596</xmax>
+			<ymax>1264</ymax>
+		</bndbox>
+	</object>
+</annotation>
